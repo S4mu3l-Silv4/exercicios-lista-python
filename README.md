@@ -1,19 +1,11 @@
-# Projeto exercícios da lista de Python:
+# Exercícios da lista de Python:
 
-    Este site foi criado por https://github.com/S4mu3l-Silv4 como um projeto pessoal, objetivando praticar e demonstrar as minhas habilidades em programação front-end.
-<br>
-<br>
-# Site no ar:
+  Estes exercícios foram feitos por https://github.com/S4mu3l-Silv4, objetivando praticar e demonstrar as minhas habilidades em programação back-end.
+  <br>
+  <br>
+## Tecnologias utilizadas:
 
-    https://s4mu3l-silv4.github.io/exercicios-lista-python/home.html
-<br>
-<br>
-# Tecnologias utilizadas:
-
-    - HTML
-    - CSS
-    - JavaScript
-    - Git
-    - GitHub
-    - Visual Studio Code
-    - GIMP
+  - Python
+  - Git
+  - GitHub
+  - Visual Studio Code
