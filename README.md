@@ -1,6 +1,6 @@
 # Exercícios da lista de Python:
 
-  Estes exercícios foram desenvolvidos como um aprimoramento pessoal, objetivando praticar e demonstrar as minhas habilidades em back-end.
+  Estes exercícios foram desenvolvidos como um aprimoramento pessoal, objetivando praticar e demonstrar as minhas habilidades na área Back-End.
   <br>
   <br>
 ## Tecnologias utilizadas:
