@@ -1,4 +1,4 @@
-# Exercícios da lista de Python:
+# Exercícios da Lista de Python:
 
   Estes exercícios foram desenvolvidos como um aprimoramento pessoal, objetivando praticar e demonstrar as minhas habilidades na área Back-End.
   <br>
